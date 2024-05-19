@@ -32,12 +32,6 @@ pnpm:
 pnpm add -D eslint-plugin-node-test	
 ```
 
-Bun:
-
-```sh
-bun add -d eslint-plugin-node-test	
-```
-
 ## Usage
 
 Add `plugin:node-test/recommended` to the `extends` section of your [ESLint configuration file](https://eslint.org/docs/latest/use/configure/configuration-files-deprecated).
