@@ -9,5 +9,8 @@
     "type": "git",
     "url": "https://github.com/munierujp/eslint-plugin-node-test.git"
   },
+  "bugs": {
+    "url": "https://github.com/munierujp/eslint-plugin-node-test/issues"
+  },
   "license": "MIT"
 }
