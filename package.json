@@ -13,5 +13,13 @@
     "url": "https://github.com/munierujp/eslint-plugin-node-test/issues"
   },
   "homepage": "https://github.com/munierujp/eslint-plugin-node-test",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslintplugin",
+    "nodejs",
+    "node",
+    "test"
+  ]
 }
