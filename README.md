@@ -50,7 +50,7 @@ YAML:
 
 ```yaml
 extends: 
-- "plugin:node-test/recommended"
+- plugin:node-test/recommended
 ```
 
 JSON:
