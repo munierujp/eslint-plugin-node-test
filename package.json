@@ -1,5 +1,6 @@
 {
   "name": "eslint-plugin-node-test",
   "version": "0.1.0",
+  "description": "ESLint plugin for Node.js's test runner",
   "license": "MIT"
 }
