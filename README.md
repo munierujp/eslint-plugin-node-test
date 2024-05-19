@@ -1,6 +1,8 @@
 > [!WARNING]
 > This package is currently under development.
 
+[![npm version](https://badge.fury.io/js/eslint-plugin-node-test.svg)](https://badge.fury.io/js/eslint-plugin-node-test)
+
 # eslint-plugin-node-test
 
 ESLint plugin for [Node.js's test runner](https://nodejs.org/api/test.html)
