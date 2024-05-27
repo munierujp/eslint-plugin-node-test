@@ -5,7 +5,7 @@
 
 # eslint-plugin-node-test
 
-ESLint plugin for [Node.js's test runner](https://nodejs.org/api/test.html)
+ESLint plugin for [Node.js's test runner](https://nodejs.org/api/test.html) (`node:test` module)
 
 ## Requirements
 
