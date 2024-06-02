@@ -5,6 +5,14 @@
   "engines": {
     "node": ">=20"
   },
+  "dependencies": {
+    "@typescript-eslint/utils": "^7.11.0"
+  },
+  "devDependencies": {
+    "@tsconfig/node20": "20.1.4",
+    "@types/node": "20.12.0",
+    "@typescript-eslint/utils": "7.11.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/munierujp/eslint-plugin-node-test.git"
@@ -21,13 +29,5 @@
     "nodejs",
     "node",
     "test"
-  ],
-  "dependencies": {
-    "@typescript-eslint/utils": "^7.11.0"
-  },
-  "devDependencies": {
-    "@tsconfig/node20": "20.1.4",
-    "@types/node": "20.12.0",
-    "@typescript-eslint/utils": "7.11.0"
-  }
+  ]
 }
