@@ -21,5 +21,8 @@
     "nodejs",
     "node",
     "test"
-  ]
+  ],
+  "devDependencies": {
+    "@tsconfig/node20": "20.1.4"
+  }
 }
